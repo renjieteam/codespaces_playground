@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 -- Created on 2021-08-31
 
 This is the Temp.txt file on Github - notes repository
 
 
 
+=======
+>>>>>>> 6599e03a6e5945d6ed022fd03a11a240b24eee4b
 
